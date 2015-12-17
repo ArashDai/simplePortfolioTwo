@@ -1,0 +1,3 @@
+node_modules
+client/assets
+client/build/bundle.js

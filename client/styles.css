@@ -1,0 +1,103 @@
+body {
+    background-color: #6E4B1F;
+    color: #dcac0b;
+    width:100%;
+}
+.btn{
+  background-color:white;
+  color:#382404;
+  border:none;
+}
+#navbarHeader {
+	background-color: #FFEED0;
+	color: #000000;
+  display: inline;
+}
+
+#pageTitle {
+  font-size: 36pt;
+  color: #382404;
+  font-family:Niconne;
+}
+#pageSubTitle{
+  font-size:20pt;
+  color: #382404;
+}
+
+hr{
+  background-color:brown;
+  border-color:#382404;
+}
+
+#homepage{
+  margin-top:4.4em;
+  margin-bottom:3.9em;
+  width:100%;
+}
+
+
+#homepageimg{
+  width:100%;
+  max-height:50em;
+}
+
+#carouseltxt{
+  font-family:'helvetica';
+  color:white;
+  top:-9em;
+}
+#homepagetxt{
+  width:100%;
+  font-family:'helvetica';
+  font-size:2em;
+  color:#382404;
+}
+#aboutpage{
+  margin-top:3.9em;
+  margin-bottom:3.9em;
+  width:100%;
+  font-family:'helvetica';
+  font-size:1.5em;
+  color:#382404;
+}
+#aboutpageimg{
+  max-height: 13em;
+}
+#contactpage{
+  margin-top:3.9em;
+  margin-bottom:3.9em;
+  width:100%;
+  font-family:'helvetica';
+  font-size:1.5em;
+  color:#382404;
+}
+.Card{
+  background-color: #FFEED0;
+  width:95%;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  padding-top:1em; 
+  padding-bottom:1em;
+}
+
+#footer{
+  background-color:#FFEED0; 
+}
+
+#galleryimage{
+  padding:.1em;
+
+}
+
+#logo{
+  width:5em;
+
+}
+
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 0;
+  padding-left: 0;
+}
